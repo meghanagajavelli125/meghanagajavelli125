@@ -1,8 +1,11 @@
 # Hi 👋, I'm Meghana Gajavelli
 
 🎓 3rd Year B.Tech ECE Student
+
 💻 Full Stack Developer and Aspiring DV Engineer
+
 🌱 Currently learning Salesforce, React, Node.js and MongoDB
+
 🚀 Interested in Web Development and VLSI
 
 ## 🛠 Tech Stack
