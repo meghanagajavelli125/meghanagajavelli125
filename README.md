@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Meghana Gajavelli
 
-<!--
-**meghanagajavelli125/meghanagajavelli125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech ECE Student
+💻 Full Stack Developer and Aspiring DV Engineer
+🌱 Currently learning Salesforce, React, Node.js and MongoDB
+🚀 Interested in Web Development and VLSI
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+- MySQL
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- Postman
+
+
+
+## 📫 Connect with me
+
+LinkedIn:https://www.linkedin.com/in/meghana-gajavelli-072a9930b/
+Email:meghanagajavelli125@gmail.com
